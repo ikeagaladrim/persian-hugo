@@ -1,6 +1,6 @@
 ---
 title: Shiraz Valji
-image: ''
+image: images/author.jpg
 email: hello@shirazvalji.com
 social: []
 
