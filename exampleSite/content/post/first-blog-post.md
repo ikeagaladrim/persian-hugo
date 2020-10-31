@@ -4,7 +4,7 @@ categories = ["career ", "cybersecurity"]
 date = 2020-10-31T21:51:00Z
 description = "So Meta Data Goes Here"
 image = "/images/flowers-1.jpg"
-tags = []
+tags = ["jobs"]
 title = "First Blog post"
 
 +++
