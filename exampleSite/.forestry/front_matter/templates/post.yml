@@ -14,7 +14,8 @@ fields:
 - type: text
   name: author
   label: author
-  description: 'Ex: John Doe'
+  description: 'Ex: Shiraz Valji'
+  default: Shiraz Valji
 - type: text
   name: description
   label: description
