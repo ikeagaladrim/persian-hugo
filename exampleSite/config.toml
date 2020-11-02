@@ -1,5 +1,5 @@
 baseURL = "https://shirazvalji.com/"
-disqusShortname = "shirazvalji.disqus.com"
+disqusShortname = "shirazvalji"
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
