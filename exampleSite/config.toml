@@ -1,5 +1,6 @@
 baseURL = "https://shirazvalji.com/"
 disqusShortname = "shirazvalji"
+googleAnalytics = "UA-179128102-1"
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
