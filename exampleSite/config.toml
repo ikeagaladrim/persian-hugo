@@ -1,5 +1,5 @@
-baseURL = "https://youthful-wright-d91244.netlify.app/"
-disqusShortname = ""
+baseURL = "https://shirazvalji.com/"
+disqusShortname = "shirazvalji.disqus.com"
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
@@ -8,7 +8,7 @@ title = "Shiraz Valji | Musings"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "categories/nature/"
+URL = "categories/"
 name = "Category"
 weight = 3
 [[menu.main]]
