@@ -16,8 +16,8 @@ fields:
   label: social
   fields:
   - type: text
-    name: icon
-    label: icon
+    name: ti-facebook
+    label: ti-facebook
   - type: text
     name: link
     label: link
