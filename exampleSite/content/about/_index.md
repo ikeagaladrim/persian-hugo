@@ -5,6 +5,3 @@ image: images/author.jpg
 description: About Shiraz Valji
 
 ---
-## hello@shirazvalji.com
-
-## @ValjiShiraz
