@@ -1,11 +1,11 @@
 ---
-title: "Networks and the Nature of the Firm"
-date: 2020-01-12T12:14:34+06:00
-image: "images/post/post-2.jpg"
+title: "Building an interface between people and nature"
+date: 2019-05-12T12:14:34+06:00
+image: "images/post/post-4.jpg"
 author: "John Doe" # use capitalize
 description: "This is meta description."
-categories: ["nature"]
-tags: ["thumb", "video", "top"]
+categories: ["Nature"]
+tags: ["green", "tree"]
 draft: false
 ---
 

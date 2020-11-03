@@ -4,7 +4,7 @@ categories = ["career ", "cybersecurity"]
 date = 2020-10-31T21:51:00Z
 description = "So Meta Data Goes Here"
 image = "/images/dori-bano-_p_7n7724js-unsplash.jpg"
-tags = []
+tags = ["jobs"]
 title = "First Blog post"
 
 +++
